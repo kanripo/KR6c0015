@@ -1,29 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:11.901721
+#+DATE: 2015-08-30 19:44:13.449059
 #+TITLE: 佛說佛母寶德藏般若波羅蜜經
 #+PROPERTY: CBETA_ID T08n0229
 #+PROPERTY: ID KR6c0015
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 229
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6c0015_T_000-0676c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0015_T_002-0679c> ¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《佛母寶德藏般若波羅蜜經》卷¶
+《佛母寶德藏般若波羅蜜經》卷¶
 中¶
 ¶
 西天譯經三藏朝散大夫試光祿卿¶
 明教大師臣法賢奉　詔譯¶
 
-12般若伽陀現世品
-:PROPERTIES:
-:head: 般若伽陀現世品第十二
-:END:
-¶
+般若伽陀現世品第十二¶
 
 #+BEGIN_VERSE
 「　「如母愛子子疾病，
@@ -70,11 +65,7 @@
 」
 <pb:KR6c0015_T_002-0680a>¶
 
-13不思議品
-:PROPERTIES:
-:head: 《佛母寶德藏般若伽陀》不思議品第十三
-:END:
-¶
+《佛母寶德藏般若伽陀》不思議品第十三¶
 
 #+BEGIN_VERSE
 「　「若如是見一切法，
@@ -88,11 +79,7 @@
 #+END_VERSE
 」¶
 
-14譬喻品
-:PROPERTIES:
-:head: 《佛母寶德藏般若伽陀》譬喻品第十四
-:END:
-¶
+《佛母寶德藏般若伽陀》譬喻品第十四¶
 
 #+BEGIN_VERSE
 「　「若菩薩發堅固心，
@@ -138,11 +125,7 @@
 #+END_VERSE
 」¶
 
-15天品
-:PROPERTIES:
-:head: 《佛母寶德藏般若伽陀》天品第十五
-:END:
-¶
+《佛母寶德藏般若伽陀》天品第十五¶
 
 #+BEGIN_VERSE
 「　「所有菩薩住初地，
@@ -181,11 +164,7 @@
 #+END_VERSE
 」¶
 
-16如實品
-:PROPERTIES:
-:head: 《佛母寶德藏般若伽陀》如實品第十六
-:END:
-¶
+《佛母寶德藏般若伽陀》如實品第十六¶
 
 #+BEGIN_VERSE
 「　「東方虛空界無邊，
@@ -215,14 +194,10 @@
 #+END_VERSE
 」¶
 
-17不退地祥瑞品
-:PROPERTIES:
-:head: 《佛母寶德藏般若伽陀》不退地祥瑞品第¶
+《佛母寶德藏般若伽陀》不退地祥瑞品第¶
 十七
 <pb:KR6c0015_T_002-0680c>¶
-此品攝普遍光明佛地
-:END:
-¶
+此品攝普遍光明佛地¶
 
 #+BEGIN_VERSE
 「　時須菩提瞻仰問：
@@ -256,11 +231,7 @@
 #+END_VERSE
 」¶
 
-18空品
-:PROPERTIES:
-:head: 《佛母寶德藏般若伽陀》空品第十八
-:END:
-¶
+《佛母寶德藏般若伽陀》空品第十八¶
 
 #+BEGIN_VERSE
 「　「色受想行識甚深，
@@ -299,11 +270,7 @@
 #+END_VERSE
 」¶
 
-19昂天姊品
-:PROPERTIES:
-:head: 《佛母寶德藏般若伽陀》昂誐天姊品第十九
-:END:
-¶
+《佛母寶德藏般若伽陀》昂誐天姊品第十九¶
 
 #+BEGIN_VERSE
 「　「譬如燈光從眾緣，
@@ -341,11 +308,7 @@
 #+END_VERSE
 」¶
 
-20善解方便品
-:PROPERTIES:
-:head: 《佛母寶德藏般若伽陀》善解方便品第二十
-:END:
-¶
+《佛母寶德藏般若伽陀》善解方便品第二十¶
 
 #+BEGIN_VERSE
 「　「菩薩奉行佛般若，
@@ -449,11 +412,7 @@
 #+END_VERSE
 」¶
 
-21魔業品
-:PROPERTIES:
-:head: 《佛母寶德藏般若伽陀》魔業品第二十一
-:END:
-¶
+《佛母寶德藏般若伽陀》魔業品第二十一¶
 
 #+BEGIN_VERSE
 「　「我得授記非能所，
@@ -491,11 +450,7 @@
 #+END_VERSE
 」¶
 
-22善友品
-:PROPERTIES:
-:head: 《佛母寶德藏般若伽陀》善友品第二十二
-:END:
-
+《佛母寶德藏般若伽陀》善友品第二十二
 <pb:KR6c0015_T_002-0682a>¶
 
 #+BEGIN_VERSE
