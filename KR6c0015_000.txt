@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說佛母寶德藏般若波羅蜜經
+#+DATE: 2015-08-30 19:44:12.152707
+#+PROPERTY: JUAN 0
